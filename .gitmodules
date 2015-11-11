@@ -1,0 +1,6 @@
+[submodule "TMTest3"]
+	path = TMTest3
+	url = ../Testing/TMTest3
+[submodule "InstallSets"]
+	path = InstallSets
+	url = ../Testing/InstallSets
